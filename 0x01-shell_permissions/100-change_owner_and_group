@@ -1,2 +1,3 @@
 #!/bin/bash
-chown vincent chgrp stuff
+su chown vincent
+chgrp stuff *
